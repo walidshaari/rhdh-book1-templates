@@ -25,7 +25,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: <XXX_XXX_XXX>
+          default: .apps.rosa.dubai01.2ew4.p3.openshiftapps.com
         gitlabGroup:
           title: GitLab repo owner
           type: string
